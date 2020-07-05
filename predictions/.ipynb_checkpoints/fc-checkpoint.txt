@@ -1,0 +1,9 @@
+2020.06.28 - 20:05:40: 1st simple_approach. LinearRegressor
+2020.06.29 - 17:45:30: 1st approach. RidgeClassifier
+2020.07.04 - 15:13:31: 1st simple_approach. LinearRegressor
+2020.07.04 - 15:32:59: 1st simple_approach. LabelPropagation
+2020.07.04 - 15:46:03: 2º simple_approach. LabelPropagation with kernel KNN
+2020.07.04 - 18:01:01: 4º simple_approach. LabelPropagation - best hiper parameters
+2020.07.04 - 18:06:58: 1st simple_approach. LabelPropagation - kernel rbf
+2020.07.04 - 18:08:51: 2º simple_approach. LabelPropagation with kernel KNN
+2020.07.04 - 18:12:08: 3º simple_approach. LabelPropagation - best hiper parameters
