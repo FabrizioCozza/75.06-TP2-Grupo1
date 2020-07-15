@@ -2,3 +2,6 @@
 2020.06.29 - 17:45:30: 1st approach. RidgeClassifier
 2020.07.04 - 15:13:31: 1st simple_approach. LinearRegressor
 2020.07.13 - 16:48:56: 1st approach. RidgeClassifier_with_new_feat
+2020.07.15 - 12:59:21: 1st approach. RidgeClassifier_with_new_feat_SVD_changes
+2020.07.15 - 13:41:45: 2 approach. LogisticRegression
+2020.07.15 - 14:12:34: 3 approach. XGBoost
