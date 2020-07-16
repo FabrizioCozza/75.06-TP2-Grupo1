@@ -5,3 +5,5 @@
 2020.07.15 - 12:59:21: 1st approach. RidgeClassifier_with_new_feat_SVD_changes
 2020.07.15 - 13:41:45: 2 approach. LogisticRegression
 2020.07.15 - 14:12:34: 3 approach. XGBoost
+2020.07.16 - 16:58:45: 3 approach. XGBoost_some_feat_select
+2020.07.16 - 17:03:22: 1st approach. RidgeClassifier_with_some_feat_select
