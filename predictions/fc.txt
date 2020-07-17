@@ -7,3 +7,8 @@
 2020.07.15 - 14:12:34: 3 approach. XGBoost
 2020.07.16 - 16:58:45: 3 approach. XGBoost_some_feat_select
 2020.07.16 - 17:03:22: 1st approach. RidgeClassifier_with_some_feat_select
+2020.07.17 - 13:29:37: 1st approach. RidgeClassifier_removing_stopwords_and_lower_case
+2020.07.17 - 13:33:43: 1st approach. RidgeClassifier_removing_stopwords_and_lower_case_2
+2020.07.17 - 14:00:16: 1st approach. RidgeClassifier_tf_idf_vect
+2020.07.17 - 14:09:15: 1st approach. RidgeClassifier_tf_idf_vect_no_svd
+2020.07.17 - 14:11:35: 1st approach. RidgeClassifier_hash_vect_no_svd
