@@ -12,3 +12,14 @@
 2020.07.17 - 14:00:16: 1st approach. RidgeClassifier_tf_idf_vect
 2020.07.17 - 14:09:15: 1st approach. RidgeClassifier_tf_idf_vect_no_svd
 2020.07.17 - 14:11:35: 1st approach. RidgeClassifier_hash_vect_no_svd
+2020.07.18 - 19:19:43: 2 approach. LogisticRegression_new_approach
+2020.07.18 - 19:23:09: 4 approach. NaiveBayes
+2020.07.18 - 19:24:31: 5 approach. SVM
+2020.07.18 - 19:26:00: 8 approach. RandomForest
+2020.07.18 - 19:27:26: 9 approach. SGD
+2020.07.19 - 18:46:16: 10 approach. NN multi layer perceptron
+2020.07.19 - 18:47:43: 11 approach. Adaboost
+2020.07.19 - 19:29:15: Test sacando features
+2020.07.22 - 06:56:36: 11 approach. Adaboost with gridsearch
+2020.07.22 - 17:08:10: 11 approach. Adaboost with gridsearch_2
+2020.07.22 - 20:08:16: 11 approach. Adaboost with gridsearch_extratrees
