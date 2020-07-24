@@ -23,3 +23,10 @@
 2020.07.22 - 06:56:36: 11 approach. Adaboost with gridsearch
 2020.07.22 - 17:08:10: 11 approach. Adaboost with gridsearch_2
 2020.07.22 - 20:08:16: 11 approach. Adaboost with gridsearch_extratrees
+2020.07.24 - 15:48:06: 11 approach. Adaboost with new_text_cleaning_text
+2020.07.24 - 16:00:52: 11 approach. Adaboost with new_text_cleaning_text_2
+2020.07.24 - 16:03:22: 4 approach. NaiveBayes_with_new_text_cleaning
+2020.07.24 - 19:55:29: 11 approach. Adaboost with new_text_cleaning_text_3
+2020.07.24 - 19:58:35: 11 approach. Adaboost with new_text_cleaning_text_4
+2020.07.24 - 20:18:39: 11 approach. Adaboost with text_final_cleaning_with_stopwords
+2020.07.24 - 20:20:11: 11 approach. Adaboost with text_final_cleaning_without_stopwords
