@@ -30,3 +30,8 @@
 2020.07.24 - 19:58:35: 11 approach. Adaboost with new_text_cleaning_text_4
 2020.07.24 - 20:18:39: 11 approach. Adaboost with text_final_cleaning_with_stopwords
 2020.07.24 - 20:20:11: 11 approach. Adaboost with text_final_cleaning_without_stopwords
+2020.07.27 - 22:17:11: 12 approach. Simple CNN
+2020.07.28 - 03:57:44: 13 approach. LSTM comun
+2020.07.28 - 04:02:57: 13 approach. LSTM bidireccional
+2020.07.28 - 04:09:16: 14 approach. GRU
+2020.07.28 - 04:11:55: 13 approach. LSTM comun con stopwords
