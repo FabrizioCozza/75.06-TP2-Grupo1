@@ -35,3 +35,22 @@
 2020.07.28 - 04:02:57: 13 approach. LSTM bidireccional
 2020.07.28 - 04:09:16: 14 approach. GRU
 2020.07.28 - 04:11:55: 13 approach. LSTM comun con stopwords
+2020.07.28 - 18:14:02: 13 approach. LSTM ambos features
+2020.07.31 - 02:31:53: 13 approach. LSTM bf mean
+2020.07.31 - 02:32:06: 13 approach. LSTM bf argmax
+2020.07.31 - 02:42:01: 13 approach. LSTM bf argmax_2
+2020.07.31 - 04:16:03: 13 approach. LSTM testing layers
+2020.07.31 - 04:38:54: 13 approach. LSTM_comun_test_layers_only_text
+2020.07.31 - 04:41:31: 13 approach. LSTM_comun_test_layers_only_text_2
+2020.08.01 - 16:13:38: 13 approach. LSTM_comun_test_layers_only_text_3
+2020.08.01 - 16:20:18: 13 approach. LSTM_comun_modif_w_conv
+2020.08.01 - 16:46:20: 13 approach. LSTM_comun_modif_1_reg_30epoc
+2020.08.01 - 17:48:15: 13 approach. LSTM_comun_modif_reg_10e-3_6epoc
+2020.08.01 - 17:50:35: 13 approach. LSTM_comun_modif_reg_10e-2_11epoc
+2020.08.01 - 20:55:43: 13 approach. LSTM_comun_modif_reg_10e-4_3epoc
+2020.08.01 - 22:12:35: 13 approach. LSTM_comun_modif_reg_10e-3_4epoc
+2020.08.02 - 16:22:34: 12 approach. Simple CNN_gloVe
+2020.08.02 - 17:10:53: 13 approach. LSTM both features 10ep best simple model params
+2020.08.03 - 04:15:54: 13 approach. LSTM_simple_final
+2020.08.03 - 04:35:38: 13 approach. LSTM_comun_modif_reg_10e-4_7epoc
+2020.08.03 - 14:54:07: 8 approach. RandomForest_gridsearch
