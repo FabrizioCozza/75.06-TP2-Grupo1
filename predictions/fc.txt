@@ -51,6 +51,17 @@
 2020.08.01 - 22:12:35: 13 approach. LSTM_comun_modif_reg_10e-3_4epoc
 2020.08.02 - 16:22:34: 12 approach. Simple CNN_gloVe
 2020.08.02 - 17:10:53: 13 approach. LSTM both features 10ep best simple model params
+2020.08.02 - 22:32:00: 15 approach. BERT 2 ep
 2020.08.03 - 04:15:54: 13 approach. LSTM_simple_final
 2020.08.03 - 04:35:38: 13 approach. LSTM_comun_modif_reg_10e-4_7epoc
 2020.08.03 - 14:54:07: 8 approach. RandomForest_gridsearch
+2020.08.03 - 15:15:00: 15 approach. BERT 2 ep full dataset
+2020.08.04 - 15:37:31: 4 approach. NaiveBayes_with_new_text_clean_final_no_punct
+2020.08.04 - 16:10:31: 16 approach. Avg of the best approaches
+2020.08.04 - 16:13:26: 16 approach. Avg of the best approaches only NN
+2020.08.04 - 16:47:09: 17 approach. Max voting of the best approaches
+2020.08.04 - 16:50:03: 17 approach. Max voting of the best approaches only NN
+2020.08.05 - 14:18:38: 18 approach. Weighted voting of the best approaches
+2020.08.05 - 16:25:30: 15 approach. BERT 1ep bs10
+2020.08.05 - 16:53:49: 13 approach. LSTM_simple_final_test
+2020.08.05 - 16:56:39: 13 approach. LSTM_simple_final_test_2
